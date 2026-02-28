@@ -2,6 +2,7 @@
 配置加载器 - 从 config.json 读取路径配置
 首次运行时自动生成 config.json 模板
 """
+
 import json
 import os
 import sys
